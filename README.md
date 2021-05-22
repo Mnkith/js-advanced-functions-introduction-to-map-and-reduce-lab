@@ -4,7 +4,7 @@
 
 - Define `map`-like function
 - Define `reduce`-like function
-
+ 
 ## Introduction
 
 In this lab, we're going to practice building our own versions of the
